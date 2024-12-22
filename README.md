@@ -14,7 +14,12 @@ Montei essa pasta baseado neste video (  https://www.youtube.com/watch?v=LvN__76
 2. Extraia o conteúdo do arquivo `.zip` para a raiz da unidade `C:\` ou `D:\`.
    - Para extrair, você pode usar programas como o [WinRAR](https://www.win-rar.com/), [7-Zip](https://www.7-zip.org/), ou o próprio gerenciador de arquivos do Windows.
    - Certifique-se de que os arquivos estejam diretamente em `C:\` ou `D:\`, e não dentro de uma subpasta.
+## Instruções para Juntar os Arquivos Divididos
 
+1. Baixe todas as partes do arquivo (por exemplo, `arquivo.zip.001`, `arquivo.zip.002`, etc.).
+2. Use um programa como o [7-Zip](https://www.7-zip.org/) ou [WinRAR](https://www.win-rar.com/) para juntar as partes.
+3. Extraia o arquivo resultante.
+4. 
 ## Passo 3: Executar a Engine Quake
 
 1. Após a extração, navegue até a pasta onde os arquivos foram descompactados (por exemplo, `C:\` ou `D:\`).
