@@ -10,16 +10,53 @@ Montei essa pasta baseado neste video (  https://www.youtube.com/watch?v=LvN__76
 
 ## Passo 2: Extrair os Arquivos
 
-1. Após o download, localize o arquivo `.zip` no seu computador.
-2. Extraia o conteúdo do arquivo `.zip` para a raiz da unidade `C:\` ou `D:\`.
-   - Para extrair, você pode usar programas como o [WinRAR](https://www.win-rar.com/), [7-Zip](https://www.7-zip.org/), ou o próprio gerenciador de arquivos do Windows.
-   - Certifique-se de que os arquivos estejam diretamente em `C:\` ou `D:\`, e não dentro de uma subpasta.
-## Instruções para Juntar os Arquivos Divididos
+# Instruções para Baixar e Extrair a Engine Quake
 
-1. Baixe todas as partes do arquivo (por exemplo, `arquivo.zip.001`, `arquivo.zip.002`, etc.).
-2. Use um programa como o [7-Zip](https://www.7-zip.org/) ou [WinRAR](https://www.win-rar.com/) para juntar as partes.
-3. Extraia o arquivo resultante.
-4. 
+Este repositório contém a engine Quake dividida em partes de 20 MB para facilitar o download e o envio para o GitHub. Siga as instruções abaixo para baixar e juntar os arquivos.
+
+## Passo 1: Baixar os Arquivos
+
+1. Baixe todas as partes do arquivo disponíveis neste repositório. Os arquivos têm nomes como:
+   - `quakedev.7z.001`
+   - `quakedev.7z.002`
+   - `quakedev.7z.003`
+   - ...
+   - Até `quakedev.7z.012`
+
+2. Certifique-se de que todas as partes estejam na **mesma pasta** no seu computador.
+
+## Passo 2: Juntar os Arquivos
+
+Para juntar os arquivos, você pode usar programas como [WinRAR](https://www.win-rar.com/) ou [7-Zip](https://www.7-zip.org/).
+
+### Usando o WinRAR
+
+1. Clique duas vezes no arquivo principal (por exemplo, `quakedev.7z.001`).
+2. O WinRAR abrirá automaticamente e juntará as partes.
+3. Clique em **Extract** (Extrair) para extrair o arquivo original.
+
+### Usando o 7-Zip
+
+1. Clique duas vezes no arquivo principal (por exemplo, `quakedev.7z.001`).
+2. O 7-Zip abrirá automaticamente e juntará as partes.
+3. Clique em **Extract** (Extrair) para extrair o arquivo original.
+
+## Passo 3: Extrair o Arquivo Original
+
+Após juntar as partes, você terá o arquivo original `quakedev.7z`. Extraia-o para o local desejado no seu computador.
+
+## Passo 4: Executar a Engine Quake
+
+1. Após extrair o arquivo `quakedev.7z`, navegue até a pasta onde os arquivos foram descompactados.
+2. Localize o executável da engine Quake (geralmente chamado de `quake.exe` ou similar).
+3. Clique duas vezes no executável para iniciar o jogo.
+
+## Observações
+
+- Certifique-se de que **todas as partes** estejam presentes antes de tentar extrair.
+- Caso tenha dúvidas ou problemas, sinta-se à vontade para abrir uma **issue** neste repositório.
+
+Divirta-se jogando Quake! 🚀
 ## Passo 3: Executar a Engine Quake
 
 1. Após a extração, navegue até a pasta onde os arquivos foram descompactados (por exemplo, `C:\` ou `D:\`).
